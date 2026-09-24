@@ -6,7 +6,7 @@ name = "e0xgnzcyeqblu533pvdr875gw"
 dynamic = ["version"]
 
 requires-python = ">= 3.14"
-dependencies = []
+dependencies = ["mhgk17m19dp52avk3lhvx6b1j>=0.0.1,<0.0.2", "gqx7snxeqsz7sncc6bazfqzmg>=0.0.2,<0.0.3"]
 
 authors = [{name = "Jevan Goh", email = "javerngoh@gmail.com"}]
 
